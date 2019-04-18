@@ -1,0 +1,6 @@
+lsml_hw2_samples
+.DS_Store
+.idea
+.ipynb_checkpoints
+experiments.ipynb
+Dataframes.ipynb
